@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://junyangyee.github.io./sitemap.xml
-Host: https://junyangyee.github.io.
+Sitemap: https://junyangyee.github.io/sitemap.xml
+Host: https://junyangyee.github.io
