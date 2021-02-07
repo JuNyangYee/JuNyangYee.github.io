@@ -1,9 +1,242 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JuNyangYee | Feed]]></title><description><![CDATA[3D Artist]]></description><link>https://junyangyee.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 07 Feb 2021 13:12:03 GMT</lastBuildDate><item><title><![CDATA[개인 포트폴리오 블로그를 만들었습니다.]]></title><description><![CDATA[안녕하세요. 포트폴리오 블로그를 만들었습니다. 일단 개인 블로그를 만든다는 2021년 목표 하나를 이루었네요 :)  아무리 스타터를 쓰고 만들었다고는 해도... Git Bash도 처음, Gatsby도 처음... 너무 어려웠습니다... 😂 이 블로그는…]]></description><link>https://junyangyee.github.io/welcome-first-post/</link><guid isPermaLink="false">https://junyangyee.github.io/welcome-first-post/</guid><pubDate>Sun, 07 Feb 2021 11:52:00 GMT</pubDate><content:encoded>&lt;p&gt;안녕하세요. 포트폴리오 블로그를 만들었습니다.&lt;/p&gt;
-&lt;p&gt;일단 개인 블로그를 만든다는 2021년 목표 하나를 이루었네요 :) &lt;/p&gt;
-&lt;p&gt;아무리 스타터를 쓰고 만들었다고는 해도...&lt;br&gt;
-Git Bash도 처음, Gatsby도 처음... 너무 어려웠습니다... 😂&lt;/p&gt;
-&lt;p&gt;이 블로그는 기존처럼 3D 작업물 이외에도&lt;br&gt;
-프로그래밍, 피지컬 컴퓨팅, 아니면 뭐 잡담 같은 것들도 올리는&lt;br&gt;
-진짜 블로그처럼 사용할 것 같습니다.&lt;/p&gt;
-&lt;p&gt;2021년 설날이 얼마 남지 않았습니다.&lt;br&gt;
-모두 새해 복 많이 받으세요!&lt;/p&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JuNyangYee | Feed]]></title><description><![CDATA[3D Artist]]></description><link>https://junyangyee.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 07 Feb 2021 17:43:47 GMT</lastBuildDate><item><title><![CDATA[BLOG DEV - 01. PROFILE ICON 수정]]></title><description><![CDATA[아이콘 삭제 기본적으로 Borderless 테마에서 프로필 아래 아이콘이 5개가 있었습니다. 대부분이 잘 알고있는 Facebook , Instagram , Github 저한테는 조금 생소했던 Linkedin 위 4가지 아이콘은 원하는대로 보이고 안보…]]></description><link>https://junyangyee.github.io/Blog-Dev_2/</link><guid isPermaLink="false">https://junyangyee.github.io/Blog-Dev_2/</guid><pubDate>Sun, 07 Feb 2021 17:06:00 GMT</pubDate><content:encoded>&lt;h3 id=&quot;아이콘-삭제&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%95%84%EC%9D%B4%EC%BD%98-%EC%82%AD%EC%A0%9C&quot; aria-label=&quot;아이콘 삭제 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;아이콘 삭제&lt;/h3&gt;
+&lt;p&gt;기본적으로 Borderless 테마에서 프로필 아래 아이콘이 5개가 있었습니다.&lt;/p&gt;
+&lt;p&gt;대부분이 잘 알고있는 &lt;strong&gt;Facebook , Instagram , Github&lt;/strong&gt;&lt;br&gt;
+저한테는 조금 생소했던 &lt;strong&gt;Linkedin&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;위 4가지 아이콘은 원하는대로 보이고 안보이고를 정할 수 있었습니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 503px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a59a76f85a725355e2543c58081214fd/a4078/Config.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 43.91891891891892%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABM0lEQVQoz6VSSXLDIBDUN2IhJCwBQoAsWYudxEpVtkv+/5/OQHlLnIsrhy4YYJrumUmEEMgyDs4vyPjP+B4koijA0hSMpUSc3U0QP7/KS8pKQjYeyrUQZRUvU8b+wOV8dVzZFdFJTKKIrH/5xPD2BWU9to3C1mr0RmFoaCXsvEFXS7rTmGyNPcWzq6GrMpKeiANpIo2EnSzcvEH7vMH4ZPG4eMwHh3FqYCjJ6QqNLGEITlXo6LNWSyJcQ64FSirblUJHCj8iXNdjJHXL1uHQWyyEoO593OB18Fg6OidMzhBqDPR2pn1L6nmex3IllSLpvsdaG2iRk82aHigirqPtYDkkBoKdb0itjBazI24sF0WOdPUQu8xofELx2bExLOxjM7JzM0LM+e00nC3HOfzH3P0m/QbfRP3Q/sLxUwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Config&quot;
+        title=&quot;Config&quot;
+        src=&quot;/static/a59a76f85a725355e2543c58081214fd/a4078/Config.png&quot;
+        srcset=&quot;/static/a59a76f85a725355e2543c58081214fd/12f09/Config.png 148w,
+/static/a59a76f85a725355e2543c58081214fd/e4a3f/Config.png 295w,
+/static/a59a76f85a725355e2543c58081214fd/a4078/Config.png 503w&quot;
+        sizes=&quot;(max-width: 503px) 100vw, 503px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&apos; &apos; 와 같이 공백으로 처리하면 자동으로 아이콘이 사라집니다..!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;그런데 아이콘 하나가 계속해서 사라졌습니다.&lt;/p&gt;
+&lt;p&gt;바로 &lt;strong&gt;RSS 아이콘.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 104px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/60bcdb87264fa96dd9cdc060ada27db6/c6fc0/RSS.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 31.730769230769234%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAYAAADDl76dAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABDklEQVQY022QC0/CMBSF+f8/wUTjMwskEDBiDD5RApOHmxNwTNSIIhAdboWxssiO6026iHKSprenJ99tbyIMQwjx+Rym9Qjf53T+Xixot8cOOt0nWN1nsMkUUi3TwkVJjfOSk5CFyybYS2WxrWTQe+2T53OOakOHbrRxdlnBVblK/m3zHhu7KSjpfWTzhbi5YMXAIAhwdFJEMnNAYNHZm82g1rToNQ8wWibUukZZkXnpvVG9vpPEx6f9H+gyhnzhHLnDY2wpaQIIXUeQ2o1Bq6Hfkddsd3BaLKOuGVjbVGLYEpBH3xNfnXoe+oMhjUDIcRjeB6PIG9GdlD3+gusymv3SDH8f/mqVL1+yKif2HwcBwAQkdTliAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;RSS&quot;
+        title=&quot;RSS&quot;
+        src=&quot;/static/60bcdb87264fa96dd9cdc060ada27db6/c6fc0/RSS.png&quot;
+        srcset=&quot;/static/60bcdb87264fa96dd9cdc060ada27db6/c6fc0/RSS.png 104w&quot;
+        sizes=&quot;(max-width: 104px) 100vw, 104px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;제일 왼쪽 아이콘&lt;br&gt;
+예전에 네이버 블로그에서 자주 봤었던 것 같은데...&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;Config.js 파일에서 저걸 설정하는 부분이 없더라구요. 그래서 아예 저 부분을 없애버렸습니다!&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8e50ce003d5345b325f23b70e3a32cac/f96df/social.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABsklEQVQ4y41T2ZLaQBDb71jP7bmxsTGQYq///yxFYwy1SYWwD6rpGoOmpVa/GGvhQkEcJuRSkH0PbQyUlDwtDGur9XpnjYZhfTulVFBKEuqOl/ahzxV5OiIt78jzGcP5A0OtSHVASAm5t+hDRAk9IuvsHbyzDwj5suk9lHW80NcP7E4SouvQEa9CoNsgBO/lFY2skUop/+zQ5R3y6QNhfoPfnyl/RskZJWXUnDDEHql3KOzMsYEbgVQPOrTOoY8BLlboPMKmHeJuRMwFlTID5WmtoLc/fe/ob6yEjgS27Ck9wlC6ZtdKdJROibShEdltGPopYfthSCinC+LxE/70hXS4YH84YtxPWIaKKQcOw3E4biX9PyFjYwkpXiE7YjVe0B999ah1SYL7UG7+bYP7p2RL7/x0hqPsVjsf+AitYDeWFvRb3U6r9XPJzkdkSgzzBW75RFzesJsWSp4x1oJjTavkxAx+n/LDoVifILVZ5SrKFkTLX8fM3U9xlS2fSl5zOHAo7wgHYv6FPM4YuIaFGJjDynVs29GgfxKb1acY1xwakrvI3ebaJWazyWyPNqKf5PA354Np0sImQqoAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;social&quot;
+        title=&quot;social&quot;
+        src=&quot;/static/8e50ce003d5345b325f23b70e3a32cac/fcda8/social.png&quot;
+        srcset=&quot;/static/8e50ce003d5345b325f23b70e3a32cac/12f09/social.png 148w,
+/static/8e50ce003d5345b325f23b70e3a32cac/e4a3f/social.png 295w,
+/static/8e50ce003d5345b325f23b70e3a32cac/fcda8/social.png 590w,
+/static/8e50ce003d5345b325f23b70e3a32cac/f96df/social.png 849w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;제일 위에 있는 RSS. 처리해버렸으니 안심하라구.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;p&gt;찾느라 힘들었습니다. 아무리 개발자 도구를 쓰고 폴더가 정리되어 있다고 하더라도, 대체 어느 위치에 저게 있는건지 찾기 너무 힘들었습니다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;아이콘-추가&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%95%84%EC%9D%B4%EC%BD%98-%EC%B6%94%EA%B0%80&quot; aria-label=&quot;아이콘 추가 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;아이콘 추가&lt;/h3&gt;
+&lt;p&gt;아이콘을 없애고 보니 하나 더 있었으면 하는 생각이 들었습니다. 바로 &lt;strong&gt;Behance.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;위 Social 클래스 부분이 다른 SNS 아이콘들을 생성하는 부분이라는 것을 알았으니 바로 작업에 들어갑니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 585px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2596229dd0888b2598f93946cda2ac66/78a22/behance.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 40.54054054054054%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABQElEQVQoz42SW27CMBRE2UaJn0nsOH4RGigBlVZCVbv/FU1vHhSo+tGPo+vE0uiekVdKSmjTQBoPqTSEVJCCg7MCRbEmCqwJRhSMTTDGwTin8zw5IYSY5kopicpFtKcL4uEMO3zA7N7gd0f4boccPJ4T3ceE7Fv03iKYCsFW2DiDtq5+wsZJgQrjlnUIsDHDpB66G1DlPUzYIGz3SFsKbhtkZ2GrEpqWmMyW+RCotUJVWwguSGtNPIEToyKf9GbdSXP8XhR/c6esoG0L2URIXUKVBoq6nHtkS+itt38ESpQU6M+fiMM7mtMXzOECtx2o01fEGPHSZcSU0OWMfWioOwtPPXY0o60xZjx0qImysahdS0So2EP5jv55uNTBbXq01iA1NUxJ24+9LQFXHjs0bnoyV8Xxyczcd3jTnjXFn8rfXfHgfu8bj1gAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;behance&quot;
+        title=&quot;behance&quot;
+        src=&quot;/static/2596229dd0888b2598f93946cda2ac66/78a22/behance.png&quot;
+        srcset=&quot;/static/2596229dd0888b2598f93946cda2ac66/12f09/behance.png 148w,
+/static/2596229dd0888b2598f93946cda2ac66/e4a3f/behance.png 295w,
+/static/2596229dd0888b2598f93946cda2ac66/78a22/behance.png 585w&quot;
+        sizes=&quot;(max-width: 585px) 100vw, 585px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;완성&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;p&gt;다행히 Behance 아이콘이 테마에 있어서 바로 사용할 수 있었습니다 :)&lt;/p&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;i&gt;BLOG_DEV는 블로그 개발 과정을 적는 포스트입니다.&lt;/i&gt;&lt;br&gt;
+&lt;i&gt;블로그를 꾸미면서 조금씩 작성하려고 합니다. :)&lt;/i&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[BLOG DEV - 00. 첫 홈페이지 개발]]></title><description><![CDATA[홈페이지 개발 예전부터 개인 작업이나 뭐나 개인적으로 뭐라도 올리고 싶은 공간이 있었으면 했습니다. 네이버 블로그나 티스토리나 편하게 글을 쓸 수 있는 공간은 많이 있었지만, 사실... 너무 제한된 레이아웃이나 뭐나 해서 조금 마음에 들지 않았습니다…]]></description><link>https://junyangyee.github.io/Blog-Dev_1/</link><guid isPermaLink="false">https://junyangyee.github.io/Blog-Dev_1/</guid><pubDate>Sun, 07 Feb 2021 15:42:00 GMT</pubDate><content:encoded>&lt;h3 id=&quot;홈페이지-개발&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C&quot; aria-label=&quot;홈페이지 개발 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;홈페이지 개발&lt;/h3&gt;
+&lt;p&gt;예전부터 개인 작업이나 뭐나 개인적으로 뭐라도 올리고 싶은 공간이 있었으면 했습니다. 네이버 블로그나 티스토리나 편하게 글을 쓸 수 있는 공간은 많이 있었지만, 사실... 너무 제한된 레이아웃이나 뭐나 해서 조금 마음에 들지 않았습니다.&lt;/p&gt;
+&lt;p&gt;그래서 &lt;strong&gt;&quot;개인 홈페이지(블로그) 개발&quot;&lt;/strong&gt;을 올해 목표 중 하나로 잡았습니다. &lt;/p&gt;
+&lt;p&gt;고등학교 때부터 HTML / CSS 정도는 배워왔기에 뭐 쉽게 만들 수 있을거라 생각했지만... 역시 너무 어렵더라구요. 저 두개만으로는 되는게 없으니...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;static-site-generator&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#static-site-generator&quot; aria-label=&quot;static site generator permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Static Site Generator&lt;/h3&gt;
+&lt;p&gt;디지털아트 프로그래밍 시간에 &lt;a href=&quot;https://metakits.cc&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;김승범 교수님 홈페이지&lt;/a&gt;처럼 페이지를 만들고 싶어서 여쭤본 적 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 282px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d164e2a7c885d4ce5809178f716d9aba/cd13f/static_hugo.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 53.37837837837838%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsSAAALEgHS3X78AAABgUlEQVQoz5VS23KcMAzl/7+pv9Bs2pR0AyxgY+M72Ma77AWbaslMZjOTPFRP8pGOdCQ5W69xPV7X7y2l9B2exUJNO5R6xwWnhDJK3/ZvhBCtVFvXZhgfCTGu4QysFMFb10z9LJ/zl+sTpqLPX/5URfl79wvhbr/f14e6rqpwPG006B+RvtFxSfF2uVzuZL9r8Y+n1czz5WyMCSE4a6+3RWs1+Ukr6afwlfj7M3Oj1R0f3TgMRmttBuudk0oRQoO3Wg/OOcCtdYBICY7VUsatQKakaFArOGeMIYT6nkN/SmlRlIIx0nUY46ZplNId7gwUN0YJubzPDMH89RXIbdN2hHAu7OhgbVxIY8ZxMHn+F0CjNOtZ8AH0IYzn8zYzbpv60GplpBAYdVVRNHWLCD0UBdRV2kCAC0EJAXJZVgAwQt4XkTGACfN+mucTpELmYAZQp6QcNpuPx2kKIA0OWRYlDD95fzrdT5ARhKpDvcS0/r9lcO64xI9Pk7abpEf7/Hwk/wMZs21DSBB2ZQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;static hugo&quot;
+        title=&quot;static hugo&quot;
+        src=&quot;/static/d164e2a7c885d4ce5809178f716d9aba/cd13f/static_hugo.png&quot;
+        srcset=&quot;/static/d164e2a7c885d4ce5809178f716d9aba/12f09/static_hugo.png 148w,
+/static/d164e2a7c885d4ce5809178f716d9aba/cd13f/static_hugo.png 282w&quot;
+        sizes=&quot;(max-width: 282px) 100vw, 282px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;정적 사이트 생성기&lt;br&gt;
+교수님은 Hugo를 사용하신다고 합니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;정적 사이트 생성기. Static Site Generator라는 것을 처음 알게 되었습니다.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://jamstack.org/generators/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;&lt;strong&gt;정적 사이트 생성기 순위&lt;/strong&gt;&lt;/a&gt;를 볼 수 있는 사이트입니다.&lt;br&gt;
+2021년 02월 08일 기준으로는 Next.js / Hugo / Gatsby 가 제일 뜨고있는 것을 볼 수 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Next.js&lt;/strong&gt;&lt;br&gt;
+처음에는 Next.js를 사용해보고 싶어서 찾아봤었는데... 너무 어렵더라구요.&lt;br&gt;
+제일 큰 문제는 템플릿이 별로 없다는 것. Javascript도 많이 모르는데, Node.js까지 써야한다니... 처음부터 만들 생각을 하니 도저히 엄두가 안났습니다.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt;&lt;br&gt;
+다음으로 유명한 Hugo를 사용하려니 Go 언어를 사용해야한다고 하더라구요. 도저히 새로운 언어를 배울 자신이 없어서 Hugo도 패스 :)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gatsby&lt;/strong&gt;&lt;br&gt;
+마지막으로 Gatsby.&lt;br&gt;
+스타터/테마라고 부르는 템플릿이 너무 많이 있었습니다. 심지어 지금 이 블로그는 한국인 분이 만드신 스타터로 만들었습니다. 문서도 그렇고 다 한글이라서 사용하기 너무 편할 것 같아 방향은 Gatsby로 정했습니다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;borderless-theme-by-junhobaik&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#borderless-theme-by-junhobaik&quot; aria-label=&quot;borderless theme by junhobaik permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Borderless Theme by JunhoBaik&lt;/h3&gt;
+&lt;p&gt;이 테마를 고른 이유는 크게 3가지가 있습니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;한글&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;설치부터 배포까지의 모든 과정이 모두 한글로 문서화가 되어있습니다. Javascript / Node.js 도 제대로 모르고, Gatsby도 처음이었기에 너무나 좋은 환경이 아닐 수 없었습니다 :)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;깔끔한 디자인&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;이름부터 Borderless인 것도 그렇고, 디자인도 그렇고 심플·깔끔을 좋아하는 저에게 이 디자인은 너무 취향저격이었습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Markdown 문법&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;HTML 수정을 해야하는 몇 테마들과는 다르게 이 테마는 Markdown 문법을 사용합니다. Trello / Notion 을 사용하는 저에게 Markdown 문법은 익숙하고 글을 쓰기에 너무 편한 문법이라 빠져버렸습니다... :-)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;git&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#git&quot; aria-label=&quot;git permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Git&lt;/h3&gt;
+&lt;p&gt;Github를 제대로 사용하기 시작한 것은 역시 디지털아트 프로그래밍 수업 때부터 입니다. 당시 수업에서는 Github Desktop으로 Github를 사용하는 방법을 배웠습니다.&lt;/p&gt;
+&lt;p&gt;그런데... 이 테마를 사용하려면... 그동안 한번도 써본적없던 Git Bash를 사용해야 했습니다...&lt;br&gt;
+이 부분이 홈페이지를 만드는데 제일 힘들었습니다.  &lt;/p&gt;
+&lt;p&gt;기본적으로 Git 사용법을 몰라서 기본 사용법부터 배우느라 애를 썼습니다.&lt;br&gt;
+그런데 확실히 Github Desktop보다는 할 수 있는게 조금 많은 것 같아서 좋은 것 같습니다. (어려운 것은 여전하지만...)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;완성&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%99%84%EC%84%B1&quot; aria-label=&quot;완성 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;완성&lt;/h3&gt;
+&lt;p&gt;한 일주일정도 계속 찾아보고 공부하면서 드디어 완성했습니다!&lt;/p&gt;
+&lt;p&gt;물론 프로그래밍을 잘하시는 분들이 보시면 하루만에 끝낼 수 있는 것들이겠지만... 프로그래밍을 진지하게 해본 적 없는 저로썬 너무 복잡해서 힘들었습니다 😂&lt;/p&gt;
+&lt;p&gt;앞으로 이것저것 수정하면서 나중에는 테마 없이 모든 걸 직접 다 디자인하는 게 목표입니다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;i&gt;BLOG_DEV는 블로그 개발 과정을 적는 포스트입니다.&lt;/i&gt;&lt;br&gt;
+&lt;i&gt;블로그를 꾸미면서 조금씩 작성하려고 합니다. :)&lt;/i&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
